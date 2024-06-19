@@ -11,6 +11,8 @@ const Hero = () => {
        *  UI: Spotlights
        *  Link: https://ui.aceternity.com/components/spotlight
        */}
+
+       
        
       <div>
         <Spotlight
